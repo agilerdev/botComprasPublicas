@@ -1,0 +1,1 @@
+node /home/ubuntu/botTg_comprasPublicas/ejecucion.js
